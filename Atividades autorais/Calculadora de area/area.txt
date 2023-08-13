@@ -1,1 +1,0 @@
-Nessa atividade eu fiz um site utilizando o visual studio code que calcula area de um quarada, retangulo, triangulo e trapezio.
