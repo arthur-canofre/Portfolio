@@ -1,0 +1,1 @@
+Nessa atividade eu utilizei o visual studio code para fazer um site que calcula o seu indice de massa corporal, diz se voce esta acima ou abaixo do peso ideal e caso voce nao esteja com o peso ideal, ele te diz qual seria o seu peso ideal.

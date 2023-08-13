@@ -1,0 +1,1 @@
+Nessa atividade eu fiz alguns exercicio de logica em javascript. 
