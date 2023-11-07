@@ -1,0 +1,3 @@
+Nessa atividade eu e meus colegas: Nicoly Silva de Castro, Gabriel de Quadros Teodoro , Beatriz Izabele da Silva, Lara Mello Sonza, Heitor Kretzer, Vinícius Soares França, João Vitor da Costa Rodrigues, João Vinicius de Aquino Farias, João Pedro Silva, João Pedro Benvenutti Vidal Cardoso, Vinicius Lopes Vargas, Douglas Pierri Beccari, Leonardo Quirino Duarte Junckes e César de Almeida Maroli, fizemos um aplicativo para ajudar pessoas com problemas psicológicos e apresentamos no Mundo Senai. 
+
+Link do repositorio Github: https://github.com/jprime617/app-legal.git
