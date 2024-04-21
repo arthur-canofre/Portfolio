@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site hardcore</title>
+</head>
+<body>
+    <h2>Adeus portugol 😪</h2>
+    <button onclick="media()"> calcula ai vai </button>
+    <button onclick="idade()"> qual tua idade man?😨</button>
+</body>
+</html>
+<script>
+    function media()
+    {
+        var n=prompt("Digite a quantidade de valores para calcular a média!")
+        var resultado, soma = 0
+        for(var i =1; i<=n; i++)
+        {
+            soma += Number(prompt("Digite o "+i+"ª número"))
+        }
+        resultado = soma / n 
+        alert("A média é: "+resultado)
+    }
+    function idade()
+    {
+        var nome = prompt("Qual seu nome?"), ano_nasc = prompt("Que ano você nasceu?"), ano_atual = prompt("E, que ano estamos?")
+        var idade = ano_atual-ano_nasc
+        if (idade>=18) 
+        {
+           alert("bem vindo "+nome+", neste ano você completa "+idade+" anos, portanto você é maior de idade!") 
+        } 
+        else 
+        {
+           alert("bem vindo "+nome+", neste ano você completa "+idade+" anos, portanto você é menor de idade!") 
+        }
+    } 
+    
+</script>

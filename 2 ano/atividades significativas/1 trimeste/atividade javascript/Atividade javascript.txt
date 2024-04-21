@@ -1,0 +1,4 @@
+Atividade javascript:
+Nessa atividade eu fiz um codigo em javascript que calcula a média independentemente da quantidade de números e um que calcula a sua idade e diz se você e maior de idade ou não.
+
+Eu escolhi essa atividade pois foi meu primeiro contado com o javascript e eu tenho muito interesse em programação.
