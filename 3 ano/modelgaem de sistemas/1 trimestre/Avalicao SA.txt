@@ -1,0 +1,3 @@
+Link do repositório: https://github.com/jprime617/desenvolvimento-de-sistemas.git
+
+Nessa atividade eu e meus colegas: Joao Pedro Silva, Vitor Schmitz, Lucas Grohe Gomes, Diogo dos Santos Pastor, Joao Vinicius de Aquino Farias  e Nicoly Silva de Castro, modelamos, durante todo o primeiro trimestre, um aplicativo.

@@ -1,0 +1,3 @@
+Link do repositório: https://github.com/arthur-canofre/react-avaliacao.git?authuser=2
+
+Nessa atividade eu desenvolvi uma aplicação web utilizando React Vite de divulgação para um evento que será realizado no Senai.

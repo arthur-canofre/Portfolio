@@ -1,0 +1,16 @@
+Link do repositório: https://github.com/arthur-canofre/calculadora.git
+
+Atividades: 
+
+1-Criando primeiro app:
+	Nessa atividade eu fiz uma calculadora simples.
+	Pasta: calculadora
+
+2-SplasScreen:
+	Nessa atividade eu fiz uma tela de abertura com um degrade de 2 cores.
+	Pasta: splash screen
+
+3-App com listagem flat-list:
+	Nessa atividade eu fiz tela com uma lista de tarefas.
+	Pasta: lista-tarefa
+	
