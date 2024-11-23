@@ -1,0 +1,5 @@
+Nessa atividade eu e meu grupo implementamos teste END-TO-END com CYPRESS no nosso projeto SA.
+
+Essa atividade foi importante pois com ela aprendemos como os testes END-TO-END funcionam na pratica. 
+
+Link do respositorio: https://github.com/jprime617/desenvolvimento-de-sistemas.git?authuser=2

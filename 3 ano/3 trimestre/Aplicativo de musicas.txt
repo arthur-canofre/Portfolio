@@ -1,0 +1,5 @@
+Nessa atividade eu fiz um aplicativo fullstack sobre musicas. 
+
+Ela foi importante pois esse foi o meu primeiro projeto completo produzido sozinho.
+
+Link do repositório: https://github.com/arthur-canofre/app-musicas.git

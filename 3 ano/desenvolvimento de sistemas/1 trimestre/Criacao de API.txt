@@ -1,4 +1,0 @@
-Link do repositório: https://github.com/arthur-canofre/Api-livros.git
-
-Nessa atividade eu criei uma api sobre livros
- 
